@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    background: red;
-}
-
 .hero-h {
     height: 85vh;
 }
