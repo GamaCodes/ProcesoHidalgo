@@ -6,7 +6,9 @@ category:
   - Capital
 header: La dependencia estatal pidió a la refinería Miguel Hidalgo un reporte
   sobre el volumen de combustible derramado
+featuredpost: false
 featuredimage: /img/noticia-1.png
+isVideo: false
 tags:
   - Capital
 ---
