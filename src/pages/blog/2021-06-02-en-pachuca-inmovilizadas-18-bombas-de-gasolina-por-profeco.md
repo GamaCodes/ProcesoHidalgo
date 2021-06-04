@@ -8,7 +8,11 @@ header: Profeco detecta he inmoviliza a 18 bombas en Pachuca de Soto por
   irregularidades
 featuredpost: false
 featuredimage: /img/noticia-3.jpeg
-isVideo: false
+isVideo: true
+video: <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/CyaN8b8heZs" title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 tags:
   - Profeco
 ---
