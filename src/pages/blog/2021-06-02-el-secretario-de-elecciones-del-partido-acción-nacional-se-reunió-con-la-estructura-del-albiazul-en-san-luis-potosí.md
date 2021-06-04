@@ -8,6 +8,7 @@ category:
 header: El Secretario de Elecciones del Partido Acción Nacional, Armando Tejeda
   Cid, se reunió con la estructura del albiazul en San Luis Potosí, con el
   objetivo de reforzar los trabajos
+featuredpost: true
 featuredimage: /img/pan.jpeg
 tags:
   - PAN
