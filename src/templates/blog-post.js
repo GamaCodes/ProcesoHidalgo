@@ -5,6 +5,7 @@ import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import PreviewCompatibleImage from '../components//PreviewCompatibleImage'
 
 export const BlogPostTemplate = ({
   content,
@@ -13,20 +14,37 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  featuredimage,
+  date,
+  header
 }) => {
   const PostContent = contentComponent || Content
 
+  console.log(featuredimage, "sddsd")
+
   return (
-    <section className="section">
+    <div>
       {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
+      <div className="container px-5 mx-auto py-4 lg:px-32">
+        <div className="relative h-40 lg:h-64">
+          <PreviewCompatibleImage
+          imageInfo={{
+              image: featuredimage,
+              alt: `featured image thumbnail for post $title}`,
+          }}
+          />
+        </div>
+        <section className="mt-10 max-w-xl mx-auto" >
+            <h1 className="font-bold text-4xl mb-4">{title}</h1>
+            <p>{header}</p>
+            <div className="mt-5 flex justify-between">
+                <p className="font-bold">Prensa Hidalgo</p>
+                <p className="text-whitegray">{date}</p>
+            </div>
+            <hr className="my-8 border-gray-400"/>
+            <div className="max-w-full prose">
             <PostContent content={content} />
+            </div>
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
@@ -39,10 +57,9 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
-          </div>
-        </div>
+        </section>
       </div>
-    </section>
+    </div>
   )
 }
 
@@ -74,6 +91,9 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        featuredimage={post.frontmatter.featuredimage}
+        date={post.frontmatter.date}
+        header={post.frontmatter.header}
       />
     </Layout>
   )
@@ -93,10 +113,17 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(locale: "es", formatString: "DD MMMM YYYY")
         title
-        description
+        header
         tags
+        featuredimage {
+          childImageSharp {
+            fluid(quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

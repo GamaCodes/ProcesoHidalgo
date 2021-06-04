@@ -67,7 +67,7 @@ export default function Header() {
                                 <Link to="/capital">Capital</Link>
                             </li>
                             <li>
-                                <Link to="/videos">Videos</Link>
+                                <Link to="/entretenimiento">Entretenimiento</Link>
                             </li>
                         </ul>
                         </div>
@@ -87,7 +87,7 @@ export default function Header() {
                         <Link to="/capital">Capital</Link>
                     </li>
                     <li>
-                        <Link to="/videos">Videos</Link>
+                        <Link to="/entretenimiento">Entretenimiento</Link>
                     </li>
                 </ul>
              </div>

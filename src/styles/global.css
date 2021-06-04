@@ -43,12 +43,12 @@ transition: opacity 0.25s ease-in-out;
 .image__caption {
 position: absolute;
 width: 100%;
-height: 100%;
-top: 0;
+height: 50%;
+bottom: 0;
 left: 0;
 }
 
-.image:hover:after {
+.image:after {
 opacity: 1;
 }
 
@@ -65,29 +65,20 @@ opacity: 0;
 
 .caption__title {
 display: block;
-margin: 2rem 0;
 font-size: .75rem;
 text-transform: uppercase;
 letter-spacing: 0.2rem;
-border-bottom: 1px solid;
-padding-bottom: 1rem;
 }
 
 .image__caption--fade {
 transition: opacity 0.25s ease-in-out;
 }
 
-.image:hover .image__caption--fade {
+.image .image__caption--fade {
 opacity: 1;
 }
 
-.image__caption--slide-up {
-top: 40%;
-transition: opacity, top, 0.3s ease-in-out;
-}
-
-.image:hover .image__caption--slide-up {
-top: 0;
+.image .image__caption--slide-up {
 opacity: 1;
 }
 
@@ -96,7 +87,7 @@ left: -40%;
 transition: opacity, left, 0.3s ease-in-out;
 }
 
-.image:hover .image__caption--slide-right {
+.image .image__caption--slide-right {
 left: 0;
 opacity: 1;
 }
@@ -105,7 +96,7 @@ opacity: 1;
 transition: opacity, transform, 0.3s ease-in-out;
 }
 
-.image:hover .image__caption--spin {
+.image .image__caption--spin {
 transform: rotate(360deg);
 opacity: 1;
 }
@@ -115,7 +106,7 @@ transform: scale(0);
 transition: opacity, transform, 0.25s cubic-bezier(0.25, 0.1, 0, 2.2);
 }
 
-.image:hover .image__caption--grow {
+.image .image__caption--grow {
 transform: scale(1);
 opacity: 1;
 }
