@@ -6,7 +6,13 @@ category:
   - Capital
 header: IEEH da a conocer cuantos y donde se podran anunciar partidos durante
   elecciones
+featuredpost: false
 featuredimage: /img/noticia4.jpeg
+isVideo: true
+video: <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/1iTkN6sczco" title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 tags:
   - IEEH
 ---
