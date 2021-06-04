@@ -7,9 +7,7 @@ category:
   - Hidalgo
 header: Ayer, 13 decesos y 66 nuevos contagios de Covid-19 en Hidalgo Asimismo,
   existen 487 casos activos.
-featuredpost: false
 featuredimage: /img/noticia-2.jpeg
-isVideo: false
 tags:
   - COVID
 ---

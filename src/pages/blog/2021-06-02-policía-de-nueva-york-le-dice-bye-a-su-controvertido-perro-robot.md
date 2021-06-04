@@ -8,7 +8,6 @@ header: La decisión estaba relacionada con que el dispositivo puede convertirse
   en un "objetivo" para sus críticos.
 featuredpost: true
 featuredimage: /img/spot-perro-robot-policia.jpeg
-isVideo: true
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/J-xNRRoM9mU" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
