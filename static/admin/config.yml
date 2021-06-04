@@ -23,8 +23,9 @@ collections:
       - {label: "Fecha de Publicación", name: "date", widget: "datetime"}
       - {label: "Categoria", name: "category", widget: "list"}
       - {label: "Encabezado", name: "header", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", required: false, widget: "boolean"}
+      - {label: "Publicación Principal", name: "featuredpost", required: false, widget: "boolean", default: false}
       - {label: "Imagen", name: "featuredimage", required: false, widget: image}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
+      - {label: "¿Tiene Video?", name: "isVideo", required: false, widget: "boolean", default: false}
       - {label: "Video", name: "video", required: false, widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
