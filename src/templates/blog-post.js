@@ -10,7 +10,7 @@ import PreviewCompatibleImage from '../components//PreviewCompatibleImage'
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
+  video,
   tags,
   title,
   helmet,
@@ -20,7 +20,7 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
 
-  console.log(featuredimage, "sddsd")
+  console.log(video, "sddsd")
 
   return (
     <div>
@@ -44,6 +44,9 @@ export const BlogPostTemplate = ({
             <hr className="my-8 border-gray-400"/>
             <div className="max-w-full prose">
             <PostContent content={content} />
+            </div>
+            <div className="flex justify-center">
+              <PostContent content={video} />
             </div>
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -93,6 +96,7 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
         featuredimage={post.frontmatter.featuredimage}
         date={post.frontmatter.date}
+        video={post.frontmatter.video}
         header={post.frontmatter.header}
       />
     </Layout>
@@ -117,6 +121,7 @@ export const pageQuery = graphql`
         title
         header
         tags
+        video
         featuredimage {
           childImageSharp {
             fluid(quality: 100) {
