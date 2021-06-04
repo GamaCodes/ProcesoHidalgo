@@ -10,6 +10,7 @@ header: El Secretario de Elecciones del Partido Acción Nacional, Armando Tejeda
   objetivo de reforzar los trabajos
 featuredpost: false
 featuredimage: /img/pan.jpeg
+isVideo: false
 tags:
   - PAN
 ---
