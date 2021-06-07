@@ -18,12 +18,12 @@ const Hero = (props) => {
             </section>
             <section className="pt-8 md:pt-0 w-10/12 md:w-6/12 border-b-6 border-whiteblue justify-center mx-auto">
             <div className="relative">
-            <PreviewCompatibleImage
-              imageInfo={{
-                  image: post.frontmatter.featuredimage,
-                  alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-              }}
-            />
+              <PreviewCompatibleImage
+                imageInfo={{
+                    image: post.frontmatter.featuredimage,
+                    alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                }}
+              />
             </div>
             </section>
         </section>

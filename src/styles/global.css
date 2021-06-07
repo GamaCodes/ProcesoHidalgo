@@ -136,3 +136,9 @@ vertical-align: middle;
 .h-container-lg{
     height: 30rem;
 }
+
+.vertical-text {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    padding: .5rem;
+}
