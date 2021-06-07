@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: En ocho meses, dos derrames de combustible en cuerpos de agua.
+title: DUPLICADAAA En ocho meses, dos derrames de combustible en cuerpos de agua.
 date: 2021-06-02T04:59:17.201Z
 category:
-  - Capital
+  - Política
 header: La dependencia estatal pidió a la refinería Miguel Hidalgo un reporte
   sobre el volumen de combustible derramado
 featuredpost: false
