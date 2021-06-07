@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: DUPLICADAAA En ocho meses, dos derrames de combustible en cuerpos de agua.
+title: En ocho meses, dos derrames de combustible en cuerpos de agua.
 date: 2021-06-02T04:59:17.201Z
 category:
   - Política
