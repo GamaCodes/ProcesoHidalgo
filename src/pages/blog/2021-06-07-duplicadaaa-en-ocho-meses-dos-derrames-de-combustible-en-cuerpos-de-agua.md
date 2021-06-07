@@ -1,13 +1,14 @@
 ---
 templateKey: blog-post
-title: En ocho meses, dos derrames de combustible en cuerpos de agua.
-date: 2021-06-02T04:59:17.201Z
+title: Senado recibe minuta sobre ‘outsourcing’; será discutida por comisiones
+date: 2021-06-07T06:30:59.683Z
 category:
   - Política
-header: La dependencia estatal pidió a la refinería Miguel Hidalgo un reporte
-  sobre el volumen de combustible derramado
+header: Senado recibe minuta sobre ‘outsourcing’; será discutida por comisiones.
+  La dependencia estatal pidió a la refinería Miguel Hidalgo un reporte sobre el
+  volumen de combustible derramado
 featuredpost: false
-featuredimage: /img/noticia-1.png
+featuredimage: /img/eiza-gonzalez-deseo-regresar-musica.jpg
 isVideo: true
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/vBmzOqmNNAg" title="YouTube video player"
