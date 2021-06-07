@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-title: "DUPLICADAAAA Partidos contarán con 145 espacios para propaganda: IEEH"
+title: AMLO visitará Aguililla, Michoacán después de las elecciones
 date: 2021-06-07T06:28:06.172Z
 category:
   - Nacional
-header: IEEH da a conocer cuantos y donde se podran anunciar partidos durante
-  elecciones
+header: AMLO visitará Aguililla, Michoacán después de las elecciones, IEEH da a
+  conocer cuantos y donde se podran anunciar partidos durante elecciones
 featuredpost: false
-featuredimage: /img/noticia4.jpeg
+featuredimage: /img/home-jumbotron.jpg
 isVideo: true
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/1iTkN6sczco" title="YouTube video player"
