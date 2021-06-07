@@ -24,6 +24,9 @@ position: relative;
     .image {
         margin-left: 0;
     }
+    .video-iframe iframe {
+        width: 100%;
+    }  
 }
 
 .image > .gatsby-image-wrapper {
