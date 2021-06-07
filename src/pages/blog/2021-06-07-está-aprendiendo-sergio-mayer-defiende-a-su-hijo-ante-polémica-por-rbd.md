@@ -3,12 +3,11 @@ templateKey: blog-post
 title: "\"Está aprendiendo\": Sergio Mayer defiende a su hijo ante polémica por 'RBD'"
 date: 2021-06-07T06:36:21.464Z
 category:
-  - "\"Está aprendiendo\": Sergio Mayer defiende a su hijo ante polémica por
-    'RBD'"
-header: Ambientada en el Londres de los años 1970, la primera entrega cuenta la
-  vida de Estella (el nombre original de 'Cruella'), quien tras quedar huérfana
-  debe ganarse la vida en las calles de la capital británica.
-  https://www.milenio.com/espectaculos/cine/cruella-disney-prepara-secuela-emma-stone
+  - Entretenimiento
+header: Sergio dijo que su hijo "se dio cuenta del error y está confrontando y
+  afrontando las consecuencias. Tampoco lo podemos juzgar y hacer leña verde del
+  árbol caído"
+  https://www.milenio.com/espectaculos/famosos/sergio-mayer-defiende-hijo-polemica-rbd
 featuredpost: false
 featuredimage: /img/sergio-mayer-y-su-hijo.jpg
 isVideo: false
