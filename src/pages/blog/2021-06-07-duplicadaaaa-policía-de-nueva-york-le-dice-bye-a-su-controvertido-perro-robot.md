@@ -1,13 +1,14 @@
 ---
 templateKey: blog-post
-title: DUPLICADAAAA Policía de Nueva York le dice 'bye' a su controvertido perro robot
+title: La Mañanera de AMLO. Los temas del 4 de junio
 date: 2021-06-07T06:27:14.279Z
 category:
   - Nacional
-header: La decisión estaba relacionada con que el dispositivo puede convertirse
-  en un "objetivo" para sus críticos.
+header: La Mañanera de AMLO. Los temas del 4 de junio. La decisión estaba
+  relacionada con que el dispositivo puede convertirse en un "objetivo" para sus
+  críticos.
 featuredpost: false
-featuredimage: /img/spot-perro-robot-policia.jpeg
+featuredimage: /img/flavor_wheel.jpg
 isVideo: true
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/J-xNRRoM9mU" title="YouTube video player"
