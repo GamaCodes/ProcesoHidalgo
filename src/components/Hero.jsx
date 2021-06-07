@@ -10,7 +10,7 @@ const Hero = (props) => {
     return (
       <div className="hero-h py-4 grid items-center">
         <section className="h-full py-4 md:flex justify-around items-center border-l-8 border-r-8 md:border-r-0 border-primary">
-            <section className="px-4 py-8 md:py-0 md:w-1/3">
+            <section className="px-4 py-8 md:py-0 lg:py-0 w-full md:w-1/3 lg:w-1/3 ">
             <h2 className="text-2xl font-bold mb-2">{post.frontmatter.title}</h2>
             <p className="text-right mb-2">{post.frontmatter.date}</p>
             <h5 className="mb-6">{post.frontmatter.header}</h5>
