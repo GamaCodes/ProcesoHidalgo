@@ -1,13 +1,15 @@
 ---
 templateKey: blog-post
-title: DUPLICADAA En Pachuca, inmovilizadas 18 bombas de gasolina por Profeco
+title: En lo que va de 2021, INM registra 17 muertes de migrantes que intentaban
+  llegar a EU
 date: 2021-06-07T06:29:07.407Z
 category:
   - Hidalgo
-header: Profeco detecta he inmoviliza a 18 bombas en Pachuca de Soto por
-  irregularidades
+header: En lo que va de 2021, INM registra 17 muertes de migrantes que
+  intentaban llegar a EU. Profeco detecta he inmoviliza a 18 bombas en Pachuca
+  de Soto por irregularidades
 featuredpost: false
-featuredimage: /img/noticia-3.jpeg
+featuredimage: /img/inm-recupero-cuerpos-migrantes-intentaban-1.jpg
 isVideo: true
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/CyaN8b8heZs" title="YouTube video player"
