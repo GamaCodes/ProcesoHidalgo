@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
-title: DUPLICADAA Ayer, 13 decesos y 66 nuevos contagios de Covid-19 en Hidalgo
-  Asimismo, existen 487 casos activos.
+title: Senado recibe minuta sobre ‘outsourcing’; será discutida por comisiones
 date: 2021-06-07T06:33:15.507Z
 category:
   - Capital
-header: Ayer, 13 decesos y 66 nuevos contagios de Covid-19 en Hidalgo Asimismo,
+header: Senado recibe minuta sobre ‘outsourcing’; será discutida por comisiones.
+  Ayer, 13 decesos y 66 nuevos contagios de Covid-19 en Hidalgo Asimismo,
   existen 487 casos activos.
 featuredpost: false
-featuredimage: /img/noticia-2.jpeg
+featuredimage: /img/aspectos-sesion-ordinaria-pleno-senado.jpg
 isVideo: false
 tags:
   - COVID
