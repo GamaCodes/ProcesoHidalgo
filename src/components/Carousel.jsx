@@ -18,7 +18,7 @@ const Carousel = (props) => {
                           <div className="p-8">
                             <div dangerouslySetInnerHTML={{__html:e.frontmatter.video}} className="video-iframe"></div>
                             <div className="flex justify-center">
-                              <Link to={e.fields.slug} className="bg-primary text-white px-32 md:px-12 py-3 rounded-lg md:ml-0">
+                              <Link to={e.fields.slug} className="bg-primary text-white px-32 md:px-12 py-4 mt-4 rounded-lg md:ml-0">
                                 Ver nota
                               </Link>
                             </div>
