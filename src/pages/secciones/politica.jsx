@@ -8,8 +8,6 @@ const Politica = (props) => {
     const { data } = props
     const post = data.allMarkdownRemark.nodes
 
-    console.log(post)
-
     return (
         <Layout>
             <h1 className=" w-3/5 text-3xl font-bold text-center border-b-6 border-whiteblue text-primary text-center m-auto py-8">Politica</h1>

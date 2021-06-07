@@ -19,8 +19,6 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
 
-  console.log(video, "sddsd")
-
   return (
     <div>
       {helmet || ''}
