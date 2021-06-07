@@ -55,19 +55,19 @@ export default function Header() {
                         <div className="p-8">
                             <ul className="space-y-8 text-center">
                             <li>
-                                <Link to="/hidalgo">Hidalgo</Link>
+                                <Link to="/secciones/hidalgo">Hidalgo</Link>
                             </li>
                             <li>
-                                <Link to="/politica">Política</Link>
+                                <Link to="/secciones/politica">Política</Link>
                             </li>
                             <li>
-                                <Link to="/nacional">Nacional</Link>
+                                <Link to="/secciones/nacional">Nacional</Link>
                             </li>
                             <li>
-                                <Link to="/capital">Capital</Link>
+                                <Link to="/secciones/capital">Capital</Link>
                             </li>
                             <li>
-                                <Link to="/entretenimiento">Entretenimiento</Link>
+                                <Link to="/secciones/entretenimiento">Entretenimiento</Link>
                             </li>
                         </ul>
                         </div>
@@ -75,19 +75,19 @@ export default function Header() {
                 </div>
                 <ul className="items-center hidden space-x-8 text-white md:flex">
                     <li>
-                        <Link to="/hidalgo">Hidalgo</Link>
+                        <Link to="/secciones/hidalgo">Hidalgo</Link>
                     </li>
                     <li>
-                        <Link to="/politica">Política</Link>
+                        <Link to="/secciones/politica">Política</Link>
                     </li>
                     <li>
-                        <Link to="/nacional">Nacional</Link>
+                        <Link to="/secciones/nacional">Nacional</Link>
                     </li>
                     <li>
-                        <Link to="/capital">Capital</Link>
+                        <Link to="/secciones/capital">Capital</Link>
                     </li>
                     <li>
-                        <Link to="/entretenimiento">Entretenimiento</Link>
+                        <Link to="/secciones/entretenimiento">Entretenimiento</Link>
                     </li>
                 </ul>
              </div>

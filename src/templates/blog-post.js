@@ -11,7 +11,7 @@ export const BlogPostTemplate = ({
   content,
   contentComponent,
   video,
-  tags,
+  category,
   title,
   helmet,
   featuredimage,
@@ -38,7 +38,7 @@ export const BlogPostTemplate = ({
             <h1 className="font-bold text-4xl mb-4">{title}</h1>
             <p>{header}</p>
             <div className="mt-5 flex justify-between">
-                <p className="font-bold">Prensa Hidalgo</p>
+                <p className="font-bold">{category}</p>
                 <p className="text-whitegray">{date}</p>
             </div>
             <hr className="my-8 border-gray-400"/>
@@ -48,18 +48,6 @@ export const BlogPostTemplate = ({
             <div className="flex justify-center">
               <PostContent content={video} />
             </div>
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
         </section>
       </div>
     </div>
@@ -92,7 +80,7 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
-        tags={post.frontmatter.tags}
+        category={post.frontmatter.category}
         title={post.frontmatter.title}
         featuredimage={post.frontmatter.featuredimage}
         date={post.frontmatter.date}
@@ -120,7 +108,7 @@ export const pageQuery = graphql`
         date(locale: "es", formatString: "DD MMMM YYYY")
         title
         header
-        tags
+        category
         video
         featuredimage {
           childImageSharp {

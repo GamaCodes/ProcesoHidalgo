@@ -7,7 +7,7 @@ const Carousel = (props) => {
     const post = data.allMarkdownRemark.nodes
 
     return (
-      <div className="mt-8 px-6">
+      <div className="my-8 px-6">
         <h2 className="text-3xl font-bold text-center border-b-6 border-whiteblue text-primary">Videos Destacados</h2>
         <div className="max-w-6xl mx-auto overflow-x-scroll pb-2">
                 <nav className="flex mt-6">
