@@ -1,13 +1,12 @@
 ---
 templateKey: blog-post
-title: DUPLICADAAA El Secretario de Elecciones del Partido Acción Nacional se
-  reunió con la estructura del albiazul en San Luis Potosí
+title: Empresas podrán adquirir vacuna anticovid para trabajadores cuando haya
+  más oferta
 date: 2021-06-07T06:31:46.227Z
 category:
   - Política
-header: El Secretario de Elecciones del Partido Acción Nacional, Armando Tejeda
-  Cid, se reunió con la estructura del albiazul en San Luis Potosí, con el
-  objetivo de reforzar los trabajos
+header: Empresas podrán adquirir vacuna anticovid para trabajadores cuando haya
+  más oferta https://www.milenio.com/politica/gobierno
 featuredpost: false
 featuredimage: /img/pan.jpeg
 isVideo: true
