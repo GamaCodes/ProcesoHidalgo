@@ -12,7 +12,7 @@ const News = (props) => {
            <div className="hidden lg:block">
             <Link to={posts[0].node.fields.slug}>
             <figure className="image h-container-lg rounded-lg">
-                <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold">{posts[0].node.frontmatter.title}</span></figcaption>
+                <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold text-primary">{posts[0].node.frontmatter.title}</span></figcaption>
                 <section className="pt-8 md:pt-0 w-80 border-b-6 border-whiteblue bg-white img-container-lg">
                     <PreviewCompatibleImage
                     imageInfo={{
@@ -28,7 +28,7 @@ const News = (props) => {
                 <div className="flex md:block lg:block flex-col items-center mt-4 md:mt-0 lg:mt-0">
                   <Link to={posts[1].node.fields.slug}>
                     <figure className="image h-56 rounded-lg">
-                        <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold">{posts[1].node.frontmatter.title}</span></figcaption>
+                        <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold text-primary">{posts[1].node.frontmatter.title}</span></figcaption>
                         <section className="pt-8 md:pt-0 w-80 border-b-6 border-whiteblue bg-white img-container">
                             <PreviewCompatibleImage
                             imageInfo={{
@@ -41,7 +41,7 @@ const News = (props) => {
                   </Link>
                   <Link to={posts[2].node.fields.slug}>
                     <figure className="image h-56 rounded-lg mt-4 md:mt-0 lg:mt-0">
-                        <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold">{posts[2].node.frontmatter.title}</span></figcaption>
+                        <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold text-primary">{posts[2].node.frontmatter.title}</span></figcaption>
                         <section className="pt-8 md:pt-0 w-80 border-b-6 border-whiteblue bg-white img-container">
                             <PreviewCompatibleImage
                             imageInfo={{
@@ -56,7 +56,7 @@ const News = (props) => {
                 <div className="flex md:block lg:block flex-col items-center mt-4">
                   <Link to={posts[3].node.fields.slug}>
                     <figure className="image h-56 rounded-lg">
-                        <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold">{posts[3].node.frontmatter.title}</span></figcaption>
+                        <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold text-primary">{posts[3].node.frontmatter.title}</span></figcaption>
                         <section className="pt-8 md:pt-0 w-80 border-b-6 border-whiteblue bg-white img-container">
                             <PreviewCompatibleImage
                             imageInfo={{
@@ -69,7 +69,7 @@ const News = (props) => {
                   </Link>
                   <Link to={posts[4].node.fields.slug}>
                     <figure className="image h-56 rounded-lg my-4 md:my-0 lg:my-0 ">
-                        <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold">{posts[4].node.frontmatter.title}</span></figcaption>
+                        <figcaption className="image__caption image__caption--slide-up"><span className="caption__title px-4 font-bold text-primary">{posts[4].node.frontmatter.title}</span></figcaption>
                         <section className="pt-8 md:pt-0 w-80 border-b-6 border-whiteblue bg-white img-container">
                             <PreviewCompatibleImage
                             imageInfo={{
