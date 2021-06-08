@@ -42,7 +42,7 @@ export const BlogPostTemplate = ({
             <div className="max-w-full prose">
             <PostContent content={content} />
             </div>
-            <div className="flex justify-center">
+            <div className="flex justify-center video-post">
               <PostContent content={video} />
             </div>
         </section>

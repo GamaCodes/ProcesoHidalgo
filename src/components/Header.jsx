@@ -7,7 +7,7 @@ export default function Header() {
     const [IsOpen, setIsOpen] = useState(false)
 
     return (
-        <header className="py-4 w-full relative bg-primary">
+        <header className="py-4 w-full relative bg-primary sticky -top-0 header-index">
             <div className="container px-5 mx-auto flex items-center justify-between">
              <div>
                 <Link to="/" className="font-bold text-xl text-white"> 

@@ -26,7 +26,10 @@ position: relative;
     }
     .video-iframe iframe {
         width: 100%;
-    }  
+    }
+    .video-post iframe {
+        width: 100%;
+    }
 }
 
 .image > .gatsby-image-wrapper {
@@ -141,4 +144,8 @@ vertical-align: middle;
     writing-mode: vertical-rl;
     text-orientation: upright;
     padding: .5rem;
+}
+
+.header-index {
+    z-index: 1;
 }
