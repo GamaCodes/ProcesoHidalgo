@@ -32,6 +32,15 @@ position: relative;
     }
 }
 
+@media screen and (max-width: 360px) {
+    .sm-px-bt {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+}
+
+sm-px-bt
+
 .image > .gatsby-image-wrapper {
 width: 100%;
 max-width: 100%;
@@ -148,4 +157,8 @@ vertical-align: middle;
 
 .header-index {
     z-index: 1;
+}
+
+.cont-cont {
+    contain: content;
 }

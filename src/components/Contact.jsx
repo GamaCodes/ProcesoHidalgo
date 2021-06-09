@@ -5,7 +5,7 @@ export default function Contact() {
     return (
         <div className="bg-primary flex flex-col md:flex-row lg:flex-row justify-around py-20 items-center">
             <div className="text-white">
-                <p className="text-4xl">Tienes comentarios</p>
+                <p className="text-4xl">¿Tienes comentarios</p>
                 <p className="text-2xl pt-4">O denuncias ?</p>
             </div>      
             <div>

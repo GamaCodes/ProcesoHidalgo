@@ -14,7 +14,7 @@ const Hero = (props) => {
             <h2 className="text-2xl font-bold mb-2">{post.frontmatter.title}</h2>
             <p className="text-right mb-2">{post.frontmatter.date}</p>
             <h5 className="mb-6">{post.frontmatter.header}</h5>
-            <Link to={post.fields.slug} className="bg-primary text-white px-32 md:px-12 py-3 rounded-lg button-ml md:ml-0">Ver más</Link> 
+            <Link to={post.fields.slug} className="bg-primary text-white px-28 md:px-12 py-3 rounded-lg button-ml md:ml-0 sm-px-bt">Ver más</Link> 
             </section>
             <section className="pt-8 md:pt-0 w-10/12 md:w-6/12 border-b-6 border-whiteblue justify-center mx-auto">
             <div className="relative">

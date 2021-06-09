@@ -5,10 +5,10 @@ import '../styles/global.css'
 
 export default function Layout({ children }) {
   return (
-    <>
-      <Header>Este es el Header</Header>
+    <div className="flex flex-col content-between justify-between min-h-screen">
+      <Header/>
       { children }
-      <Footer>Este es el footer</Footer>
-    </>
+      <Footer/>
+    </div>
   )
 }

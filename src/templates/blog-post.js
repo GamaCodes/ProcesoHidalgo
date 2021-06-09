@@ -31,9 +31,9 @@ export const BlogPostTemplate = ({
           }}
           />
         </div>
-        <section className="mt-10 max-w-xl mx-auto" >
+        <section className="mt-10 max-w-xl mx-auto cont-cont" >
             <h1 className="font-bold text-4xl mb-4">{title}</h1>
-            <p>{header}</p>
+            <p className="break-words">{header}</p>
             <div className="mt-5 flex justify-between">
                 <p className="font-bold">{category}</p>
                 <p className="text-whitegray">{date}</p>
