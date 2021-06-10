@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-const Hero = (props) => {
+const Hero = ( props ) => {
     const { data } = props
     const post = data.allMarkdownRemark.nodes[0]
 
