@@ -7,6 +7,12 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-1035048148988410`
+      },
+    },
+    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -65,12 +71,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-postcss',
-    {
-      resolve: `gatsby-plugin-google-adsense`,
-      options: {
-        publisherId: `ca-pub-1035048148988410`
-      },
-    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
