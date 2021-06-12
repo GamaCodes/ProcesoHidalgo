@@ -65,6 +65,12 @@ module.exports = {
       },
     },
     'gatsby-plugin-postcss',
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-1035048148988410`
+      },
+    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }

@@ -25,7 +25,7 @@ const Footer = ( props ) => {
                     </svg>
                 </div>
 
-                <div className="text-white flex px-32">
+                <div className="text-white px-32 hidden md:flex lg:flex">
                 
                     <div className="border-r-4 pr-24">
                         Ultimas noticias
