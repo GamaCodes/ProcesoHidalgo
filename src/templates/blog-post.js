@@ -75,6 +75,7 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            <script data-ad-client="ca-pub-1035048148988410" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           </Helmet>
         }
         category={post.frontmatter.category}
