@@ -162,3 +162,7 @@ vertical-align: middle;
 .cont-cont {
     contain: content;
 }
+
+.hero_img {
+    max-height: 400px;
+}

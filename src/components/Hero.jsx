@@ -17,7 +17,7 @@ const Hero = ( props ) => {
             <Link to={post.fields.slug} className="bg-primary text-white px-28 md:px-12 py-3 rounded-lg button-ml md:ml-0 sm-px-bt">Ver más</Link> 
             </section>
             <section className="pt-8 md:pt-0 w-10/12 md:w-6/12 border-b-6 border-whiteblue justify-center mx-auto">
-            <div className="relative">
+            <div className="relative hero_img">
               <PreviewCompatibleImage
                 imageInfo={{
                     image: post.frontmatter.featuredimage,
