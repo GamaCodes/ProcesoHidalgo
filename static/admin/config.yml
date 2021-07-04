@@ -28,4 +28,3 @@ collections:
       - {label: "Cuerpo", name: "body", widget: "markdown"}
       - {label: "¿Tiene Video?", name: "isVideo", required: false, widget: "boolean", default: false}
       - {label: "Video", name: "video", required: false, widget: "markdown"}
-      - {label: "Tags", name: "tags", required: false, widget: "list"}
