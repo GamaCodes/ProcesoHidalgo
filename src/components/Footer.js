@@ -32,20 +32,20 @@ const Footer = ( props ) => {
                         <p className="mt-2">{post.frontmatter.title}</p>
                         <div className="flex justify-between mt-2">
                             <p>{post.frontmatter.category}</p>
-                            <p>{post.frontmatter.date}</p>
+                            <p className="ml-4">{post.frontmatter.date}</p>
                         </div>
                     </div>
 
                     <div className="pl-20">
                         <h3 className="flex items-center space-x-8 text-white mb-4 justify-center">Noticias</h3>
                         <ul className="flex items-center space-x-8 text-white">
-                            <li>Hidalgo</li>
-                            <li>Política</li>
-                            <li>Nacional</li>
+                            <li><Link to="/secciones/hidalgo" >Hidalgo</Link></li>
+                            <li><Link to="/secciones/politica" >Política</Link></li>
+                            <li><Link to="/secciones/nacional" >Nacional</Link></li>
                         </ul>
                         <ul className="flex items-center space-x-8 text-white mt-4">
-                            <li>Capital</li>
-                            <li>Entretenimiento</li>
+                            <li><Link to="/secciones/capital" >Capital</Link></li>
+                            <li><Link to="/secciones/entretenimiento" >Entretenimiento</Link></li>
                         </ul>
                     </div>
                 </div>
