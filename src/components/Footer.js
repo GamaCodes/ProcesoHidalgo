@@ -7,8 +7,6 @@ const Footer = ( props ) => {
     const { data } = props
     const post = data.allMarkdownRemark.nodes[0]
 
-    console.log(post, "holllll")
-
     return (
         <footer className="py-6 w-full border-t-4 border-whiteblue bg-secondary">
             <div className="space-y-4 container px-5 mx-auto flex items-center flex-col md:flex-row md: justify-between md: space-y-0">
