@@ -16,8 +16,6 @@ video: <iframe width="560" height="315"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
-La policía de Nueva York rescindió el contrato con la empresa Boston Dynamics, que fabrica los perros robots, un controvertido dispositivo cuyo empleo preocupó a parte de la población, confirmó este jueves la fuerza a la AFP.
-El jefe de inteligencia y contraterrorismo de la policía de Nueva York, John Miller, dijo a The New York Times que el perro sería devuelto a Boston Dynamics y que la decisión estaba relacionada con que el dispositivo puede convertirse en un "objetivo" para sus críticos.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis imperdiet mauris, sit amet posuere dolor ultricies sit amet. Duis dignissim orci quis sapien tincidunt viverra. Praesent ut ante maximus, bibendum sem nec, faucibus dolor. Integer sodales hendrerit ante sed porta. Donec id interdum elit. Cras a porta neque, nec hendrerit lacus. Sed a orci venenatis, ullamcorper magna vel, tempor ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit quam, molestie feugiat semper nec, dictum ut nisi.
 
 Fusce fermentum est nec feugiat commodo. Cras volutpat eleifend ante, euismod tincidunt ex tristique eu. Ut interdum sit amet libero et posuere. In hac habitasse platea dictumst. Curabitur facilisis aliquam maximus. Mauris volutpat lectus nulla, in ullamcorper velit iaculis eu. Cras magna mi, hendrerit eget lectus in, iaculis molestie neque. Sed ultrices erat vel molestie dapibus. Ut nec mi mattis, mollis ex at, pulvinar magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
