@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Lorem Ipsu3
+title: Lorem Ipsu 13
 date: 2021-06-07T06:36:21.464Z
 category:
   - Entretenimiento
