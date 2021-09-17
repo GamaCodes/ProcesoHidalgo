@@ -7,7 +7,7 @@ category:
 header: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
   consectetur, adipisci velit...
 featuredpost: false
-featuredimage: /img/padre-1.jpeg
+featuredimage: /img/products-full-width.jpg
 isVideo: false
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis imperdiet mauris, sit amet posuere dolor ultricies sit amet. Duis dignissim orci quis sapien tincidunt viverra. Praesent ut ante maximus, bibendum sem nec, faucibus dolor. Integer sodales hendrerit ante sed porta. Donec id interdum elit. Cras a porta neque, nec hendrerit lacus. Sed a orci venenatis, ullamcorper magna vel, tempor ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit quam, molestie feugiat semper nec, dictum ut nisi.
