@@ -1,17 +1,23 @@
 ---
 templateKey: blog-post
-title: Ayer, 13 decesos y 66 nuevos contagios de Covid-19 en Hidalgo Asimismo,
-  existen 487 casos activos.
+title: Lorem Ipsum 1
 date: 2021-06-02T05:00:25.504Z
 category:
   - Hidalgo
-header: Ayer, 13 decesos y 66 nuevos contagios de Covid-19 en Hidalgo Asimismo,
-  existen 487 casos activos.
+header: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+  consectetur, adipisci velit...
 featuredpost: false
-featuredimage: /img/noticia-2.jpeg
+featuredimage: /img/products-full-width.jpg
 isVideo: false
 tags:
   - COVID
 ---
-Luego de que por varios días Hidalgo registró defunciones con una sola cifra, este martes la entidad tuvo 13 fallecimientos a causa de Covid-19, por lo que el total acumulado llegó a 5 mil 955. De las últimas muertes acontecidas, dos sucedieron en Tepeji, Tizayuca y Tula, respectivamente, mientras que en Francisco I. Madero, Ixmiquilpan, Santiago de Anaya, Tenango de Doria, Tepeapulco y Tulancingo, una en cada localidad, además, una foránea. Respecto a nuevos contagios de Covid-19, ayer se sumaron 66 positivos, por lo que desde la llegada de la pandemia a Hidalgo se acumulan 37 mil 772 individuos con la enfermedad. Asimismo, existen 487 casos activos, de los cuales 478 fueron registrados en los últimos 14 días y nueve, entre 15 y 21 días. Cinco localidades concentran 41.2 por ciento de estos: Pachuca, con 85; Tizayuca, con 38; Tepeji, con 29; Tulancingo, 25, y Apan, 20.
-Este martes 20 de abril, la Secretaría de Salud reportó 582 muertes más por Covid-19 en el México, con lo que suman 213 mil 48. Además, informó que hay 2 millones 311 mil 172 casos confirmados, 4 mil 262 más que ayer. En conferencia de prensa, José Luis Alomía Zegarra, director de epidemiología de la Secretaría de Salud, indicó que hay 2 millones 500 mil 504 casos estimados en el país, de los cuales el 1% representan a la epidemia activa, es decir, 26 mil 000 personas. En cuanto a los casos confirmados, de acuerdo con la dependencia, el país sumó 4,262 nuevos contagios en el último día por lo que el acumulado es de 2,311,172. Durante el informe técnico diario desde Palacio Nacional, el funcionario señaló que 1,836,377 personas se han recuperado del coronavirus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis imperdiet mauris, sit amet posuere dolor ultricies sit amet. Duis dignissim orci quis sapien tincidunt viverra. Praesent ut ante maximus, bibendum sem nec, faucibus dolor. Integer sodales hendrerit ante sed porta. Donec id interdum elit. Cras a porta neque, nec hendrerit lacus. Sed a orci venenatis, ullamcorper magna vel, tempor ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit quam, molestie feugiat semper nec, dictum ut nisi.
+
+Fusce fermentum est nec feugiat commodo. Cras volutpat eleifend ante, euismod tincidunt ex tristique eu. Ut interdum sit amet libero et posuere. In hac habitasse platea dictumst. Curabitur facilisis aliquam maximus. Mauris volutpat lectus nulla, in ullamcorper velit iaculis eu. Cras magna mi, hendrerit eget lectus in, iaculis molestie neque. Sed ultrices erat vel molestie dapibus. Ut nec mi mattis, mollis ex at, pulvinar magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+
+Vestibulum vel lacus ex. Cras consectetur orci nisi, at tempor magna suscipit sit amet. Duis tincidunt fermentum ex, eget commodo sem ultricies elementum. Etiam in rutrum felis. Etiam et lorem finibus, aliquam nunc in, vehicula tellus. Pellentesque dolor tortor, dapibus a porta a, bibendum in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis laoreet sit amet mi in rutrum. Vivamus augue magna, vestibulum id placerat eget, lobortis vitae magna. Maecenas et lobortis diam. Curabitur pretium placerat laoreet. Ut sed tempus sapien. Mauris felis orci, mollis in condimentum ac, commodo et dolor. Aenean sem justo, ullamcorper a ex sed, porttitor tempor nisi. Nulla luctus, odio et pulvinar dignissim, lorem nisl luctus felis, at malesuada turpis purus non nisi.
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean tincidunt mattis vestibulum. Curabitur ultricies velit eu vestibulum ultricies. Nunc rutrum dignissim erat, id faucibus erat dictum eget. Nunc eget luctus sapien, quis varius diam. In euismod consequat ipsum, non sagittis urna pharetra sit amet. Mauris accumsan quis tellus sed efficitur. Nullam lobortis felis eget imperdiet rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin euismod dolor libero, at congue felis vestibulum sed. Integer mollis volutpat massa, sed venenatis urna congue eleifend.
+
+Nunc ut auctor dui, eget tincidunt purus. Vivamus fringilla magna dui, at cursus diam scelerisque vel. Quisque lacinia interdum metus, et commodo tellus pretium non. Nunc in ex sit amet magna ornare aliquet et ultricies sapien. Donec sit amet ligula volutpat, lobortis arcu vitae, rutrum nibh. Curabitur sed odio ac enim rutrum sodales. Integer vehicula vestibulum dolor vel cursus. Quisque lobortis rutrum viverra. Curabitur faucibus condimentum vestibulum. Nulla aliquet arcu nec neque lobortis, et sollicitudin dolor congue. Integer et orci at sapien accumsan tristique vel ac odio. Pellentesque imperdiet, augue eu tempor pretium, eros sapien elementum enim, ac consectetur dui orci rutrum mauris. Nulla facilisi. Integer in nisl nec tortor feugiat semper. Suspendisse sit amet cursus ipsum, ut hendrerit elit. Cras in orci quis sem interdum laoreet.
