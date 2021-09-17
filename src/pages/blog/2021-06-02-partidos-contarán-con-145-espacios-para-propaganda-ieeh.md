@@ -1,22 +1,25 @@
 ---
 templateKey: blog-post
-title: "Partidos contarán con 145 espacios para propaganda: IEEH"
+title: Lorem Ipsum 5
 date: 2021-06-02T05:04:34.962Z
 category:
   - Capital
-header: IEEH da a conocer cuantos y donde se podran anunciar partidos durante
-  elecciones
+header: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+  consectetur, adipisci velit..
 featuredpost: false
-featuredimage: /img/noticia4.jpeg
+featuredimage: /img/products-full-width.jpg
 isVideo: true
+tags:
+  - IEEH
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/1iTkN6sczco" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-tags:
-  - IEEH
 ---
-Para la colocación de propaganda electoral en la que se elegirán diputaciones locales, los partidos políticos y coaliciones contarán con 145 espacios para este tipo de materiales. Durante sesión extraordinaria, el consejero Salvador Franco Assad presentó el informe sobre el sorteo de lugares de uso común para la propaganda electoral, en el que destacó que el IEEH realizó acciones para que los partidos políticos accedieran al uso de espacios propiedad de los 84 ayuntamientos para la colocación de los materiales. Detalló que 66 municipios indicaron no tener espacios disponibles para colocarla; 18 cedieron 155 espacios, 10 distritos cuentan con lugares de uso común; 145 espacios fueron sorteados a partidos y coaliciones, y 10 sitios, se declararon en reserva para el uso del IEEH.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis imperdiet mauris, sit amet posuere dolor ultricies sit amet. Duis dignissim orci quis sapien tincidunt viverra. Praesent ut ante maximus, bibendum sem nec, faucibus dolor. Integer sodales hendrerit ante sed porta. Donec id interdum elit. Cras a porta neque, nec hendrerit lacus. Sed a orci venenatis, ullamcorper magna vel, tempor ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit quam, molestie feugiat semper nec, dictum ut nisi.
 
-En ese sentido, se determinó que los partidos Acción Nacional, del Trabajo y Nueva Alianza Hidalgo contarán con cuatro lugares para la colocación de propaganda; el Revolucionario Institucional y Encuentro Social Hidalgo, tendrán cinco; Fuerza por México, 11 espacios.
-Además, Movimiento Ciudadano y Más por Hidalgo, 15 lugares; el partido Podemos y las coaliciones Va por Hidalgo y Juntos Haremos Historia, tendrán 19 espacios, y Redes Sociales Progresistas, 25. En total, son 145 espacios para colocación de propaganda. Por otra parte, se aprobaron solicitudes de sustitución de candidaturas a diputaciones locales presentadas por cinco partidos políticos: Movimiento Ciudadano, Podemos, Más por Hidalgo, Redes Sociales Progresistas y Fuerza por México. Así como el registro de una candidatura plurinominal al PESH. Además, el IEEH aprobó los diseños y especificaciones técnicas de la documentación y materiales electorales que se utilizarán en el proceso comicial extraordinario de Ixmiquilpan y Acaxochitlán. Yuvenil Torres Pachuca
+Fusce fermentum est nec feugiat commodo. Cras volutpat eleifend ante, euismod tincidunt ex tristique eu. Ut interdum sit amet libero et posuere. In hac habitasse platea dictumst. Curabitur facilisis aliquam maximus. Mauris volutpat lectus nulla, in ullamcorper velit iaculis eu. Cras magna mi, hendrerit eget lectus in, iaculis molestie neque. Sed ultrices erat vel molestie dapibus. Ut nec mi mattis, mollis ex at, pulvinar magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+
+Vestibulum vel lacus ex. Cras consectetur orci nisi, at tempor magna suscipit sit amet. Duis tincidunt fermentum ex, eget commodo sem ultricies elementum. Etiam in rutrum felis. Etiam et lorem finibus, aliquam nunc in, vehicula tellus. Pellentesque dolor tortor, dapibus a porta a, bibendum in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis laoreet sit amet mi in rutrum. Vivamus augue magna, vestibulum id placerat eget, lobortis vitae magna. Maecenas et lobortis diam. Curabitur pretium placerat laoreet. Ut sed tempus sapien. Mauris felis orci, mollis in condimentum ac, commodo et dolor. Aenean sem justo, ullamcorper a ex sed, porttitor tempor nisi. Nulla luctus, odio et pulvinar dignissim, lorem nisl luctus felis, at malesuada turpis purus non nisi.
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean tincidunt mattis vestibulum. Curabitur ultricies velit eu vestibulum ultricies. Nunc rutrum dignissim erat, id faucibus erat dictum eget. Nunc eget luctus sapien, quis varius diam. In euismod consequat ipsum, non sagittis urna pharetra sit amet. Mauris accumsan quis tellus sed efficitur. Nullam lobortis felis eget imperdiet rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin euismod dolor libero, at congue felis vestibulum sed. Integer mollis volutpat massa, sed venenatis urna congue eleifend.
