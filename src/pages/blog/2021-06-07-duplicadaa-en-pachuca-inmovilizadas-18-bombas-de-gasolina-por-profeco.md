@@ -1,23 +1,25 @@
 ---
 templateKey: blog-post
-title: En lo que va de 2021, INM registra 17 muertes de migrantes que intentaban
-  llegar a EU
+title: Lorem Ipsum 8
 date: 2021-06-07T06:29:07.407Z
 category:
   - Hidalgo
-header: En lo que va de 2021, INM registra 17 muertes de migrantes que
-  intentaban llegar a EU. Profeco detecta he inmoviliza a 18 bombas en Pachuca
-  de Soto por irregularidades
+header: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+  consectetur, adipisci velit...
 featuredpost: false
-featuredimage: /img/inm-recupero-cuerpos-migrantes-intentaban-1.jpg
+featuredimage: /img/products-full-width.jpg
 isVideo: true
+tags:
+  - Profeco
 video: <iframe width="560" height="315"
   src="https://www.youtube.com/embed/CyaN8b8heZs" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-tags:
-  - Profeco
 ---
-La subprocuradora de Servicios y encargada de Despacho de la Profeco, Surit Berenice Romero Domínguez, informó en la conferencia de este lunes de Andrés Manuel López Obrador sobre la inmovilización de 18 bombas despachadoras de combustible durante un operativo especial de verificación a gasolineras de Pachuca. Al ofrecer el reporte semanal del Quién es Quién en los Precios de los Combustibles (QQPC), la funcionaria precisó que la acción del gobierno federal, en coordinación con la administración estatal, se llevó a cabo el 15 de abril, como parte de las estrategias para el combate al robo de hidrocarburos. Luego de indicar que los instrumentos inmovilizados incumplían con lo requerido por la normatividad vigente, además de que presentaban faltantes de hasta 681 mililitros por cada 20 litros despachados, Romero Domínguez invitó a la ciudadanía a contribuir con denuncias que ocurran en su entorno sobre actividades ilícitas en este rubro
-En acciones de verificación, del 9 al 15 de abril, se atendieron 382 denuncias recibidas por medio de la aplicación Litro por Litro y se realizaron 204 visitas a gasolineras, de las cuales, 11 tuvieron irregularidades en dar litros de a litro, con 15 bombas inmovilizadas.
-Del 5 al 11 de abril, al considerar los índices de ganancia más altos, por marca y por región, en gasolina regular, el precio más alto que se encontró fue de $22.09 pesos por litro, con margen de $3.40, en BP Estaciones y Servicios Energéticos, de franquicia Combustibles BP, en la alcaldía Iztapalapa, en la Ciudad de México. El precio más bajo fue de $18.69, con un margen de $0.20, en Grupo Palma, de G500, en Querétaro, Querétaro.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis imperdiet mauris, sit amet posuere dolor ultricies sit amet. Duis dignissim orci quis sapien tincidunt viverra. Praesent ut ante maximus, bibendum sem nec, faucibus dolor. Integer sodales hendrerit ante sed porta. Donec id interdum elit. Cras a porta neque, nec hendrerit lacus. Sed a orci venenatis, ullamcorper magna vel, tempor ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit quam, molestie feugiat semper nec, dictum ut nisi.
+
+Fusce fermentum est nec feugiat commodo. Cras volutpat eleifend ante, euismod tincidunt ex tristique eu. Ut interdum sit amet libero et posuere. In hac habitasse platea dictumst. Curabitur facilisis aliquam maximus. Mauris volutpat lectus nulla, in ullamcorper velit iaculis eu. Cras magna mi, hendrerit eget lectus in, iaculis molestie neque. Sed ultrices erat vel molestie dapibus. Ut nec mi mattis, mollis ex at, pulvinar magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+
+Vestibulum vel lacus ex. Cras consectetur orci nisi, at tempor magna suscipit sit amet. Duis tincidunt fermentum ex, eget commodo sem ultricies elementum. Etiam in rutrum felis. Etiam et lorem finibus, aliquam nunc in, vehicula tellus. Pellentesque dolor tortor, dapibus a porta a, bibendum in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis laoreet sit amet mi in rutrum. Vivamus augue magna, vestibulum id placerat eget, lobortis vitae magna. Maecenas et lobortis diam. Curabitur pretium placerat laoreet. Ut sed tempus sapien. Mauris felis orci, mollis in condimentum ac, commodo et dolor. Aenean sem justo, ullamcorper a ex sed, porttitor tempor nisi. Nulla luctus, odio et pulvinar dignissim, lorem nisl luctus felis, at malesuada turpis purus non nisi.
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean tincidunt mattis vestibulum. Curabitur ultricies velit eu vestibulum ultricies. Nunc rutrum dignissim erat, id faucibus erat dictum eget. Nunc eget luctus sapien, quis varius diam. In euismod consequat ipsum, non sagittis urna pharetra sit amet. Mauris accumsan quis tellus sed efficitur. Nullam lobortis felis eget imperdiet rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin euismod dolor libero, at congue felis vestibulum sed. Integer mollis volutpat massa, sed venenatis urna congue eleifend.
