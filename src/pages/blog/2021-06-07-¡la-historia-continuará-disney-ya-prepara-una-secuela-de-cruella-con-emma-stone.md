@@ -1,26 +1,20 @@
 ---
 templateKey: blog-post
-title: ¡La historia continuará! Disney ya prepara una secuela de 'Cruella' con
-  Emma Stone
+title: Lorem Ipsum 15
 date: 2021-06-07T06:33:48.716Z
 category:
   - Entretenimiento
-header: Ambientada en el Londres de los años 1970, la primera entrega cuenta la
-  vida de Estella (el nombre original de 'Cruella'), quien tras quedar huérfana
-  debe ganarse la vida en las calles de la capital británica.
-  https://www.milenio.com/espectaculos/cine/cruella-disney-prepara-secuela-emma-stone
+header: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+  consectetur, adipisci velit...
 featuredpost: false
-featuredimage: /img/una-historia-protagonizada-por-emma.jpg
-isVideo: true
-video: <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/gmRKv7n2If8" title="YouTube video player"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+featuredimage: /img/products-full-width.jpg
+isVideo: false
+video: ""
 ---
-El estreno de Cruella ha sido un éxito, pues solamente en su primer fin de semana recaudó 26 millones de dólares en Estados Unidos, por lo que Disney ya prepara una secuela que volverá a contar con Craig Gillespie como director. Este gran recibimiento de la película por parte de la crítica y del público ha animado al estudio a continuar las historias de la extravagante villana de la misma manera que hizo con Maléfica, que tuvo una segunda entrega, según una exclusiva del sitio The Hollywood Reporter. Te recomendamos: ¡De San Cristóbal de las Casas a Hollywood! Impacto, empresa que ayudó a confeccionar vestidos de 'Cruella' Esta historia, protagonizada por Emma Stone, en menos de una semana ha amasado 50 millones de dólares en todo el mundo, a pesar de que también estaba disponible en la plataforma de streaming Disney+ con un cargo adicional de 30 dólares. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis imperdiet mauris, sit amet posuere dolor ultricies sit amet. Duis dignissim orci quis sapien tincidunt viverra. Praesent ut ante maximus, bibendum sem nec, faucibus dolor. Integer sodales hendrerit ante sed porta. Donec id interdum elit. Cras a porta neque, nec hendrerit lacus. Sed a orci venenatis, ullamcorper magna vel, tempor ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec velit quam, molestie feugiat semper nec, dictum ut nisi.
 
-Ambientada en el Londres de los años 1970, el filme cuenta la vida de Estella (el nombre original de Cruella), quien tras quedar huérfana debe ganarse la vida en las calles de la capital británica. La joven desarrollará una gran habilidad para los robos, acompañada de una pandilla callejera que la ayuda a obtener su primer trabajo en la industria de la moda. Como suele ser habitual, la futura villana se encontrará con una figura que impulsa su salto hacia el lado oscuro, la baronesa Von Hellman, una destacada diseñadora encarnada por Emma Thompson.
+Fusce fermentum est nec feugiat commodo. Cras volutpat eleifend ante, euismod tincidunt ex tristique eu. Ut interdum sit amet libero et posuere. In hac habitasse platea dictumst. Curabitur facilisis aliquam maximus. Mauris volutpat lectus nulla, in ullamcorper velit iaculis eu. Cras magna mi, hendrerit eget lectus in, iaculis molestie neque. Sed ultrices erat vel molestie dapibus. Ut nec mi mattis, mollis ex at, pulvinar magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
 
-La actriz fue la primera opción que Disney barajó para dar vida a este personaje que Glenn Close encarnó en las dos películas previas sobre los 101 dálmatas que el estudió grabó entre los años 1996 y 2000. 
+Vestibulum vel lacus ex. Cras consectetur orci nisi, at tempor magna suscipit sit amet. Duis tincidunt fermentum ex, eget commodo sem ultricies elementum. Etiam in rutrum felis. Etiam et lorem finibus, aliquam nunc in, vehicula tellus. Pellentesque dolor tortor, dapibus a porta a, bibendum in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis laoreet sit amet mi in rutrum. Vivamus augue magna, vestibulum id placerat eget, lobortis vitae magna. Maecenas et lobortis diam. Curabitur pretium placerat laoreet. Ut sed tempus sapien. Mauris felis orci, mollis in condimentum ac, commodo et dolor. Aenean sem justo, ullamcorper a ex sed, porttitor tempor nisi. Nulla luctus, odio et pulvinar dignissim, lorem nisl luctus felis, at malesuada turpis purus non nisi.
 
-fuente: https://www.milenio.com/espectaculos/cine/cruella-disney-prepara-secuela-emma-stone
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean tincidunt mattis vestibulum. Curabitur ultricies velit eu vestibulum ultricies. Nunc rutrum dignissim erat, id faucibus erat dictum eget. Nunc eget luctus sapien, quis varius diam. In euismod consequat ipsum, non sagittis urna pharetra sit amet. Mauris accumsan quis tellus sed efficitur. Nullam lobortis felis eget imperdiet rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin euismod dolor libero, at congue felis vestibulum sed. Integer mollis volutpat massa, sed venenatis urna congue eleifend.
